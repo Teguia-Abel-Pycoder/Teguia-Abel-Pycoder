@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Teguia-Abel-Pycoder
 - 👀 I’m interested in coding -Obviously🥲
 - 🌱 I’m currently learning Python, Java, Spring boot, and Git
-- 💞️ I’m looking to collaborate on AI projects.
+- 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me? -Email: teguia.dimitri@institutsaintjean.org
 - 
 <!---
